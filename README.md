@@ -27,7 +27,7 @@ href="https://www.mediafire.com/file/wkinzgpb0tdx5qh/com.termux_1022.apk/file"><
 
 ### **➮ Instalación por termux**
 <details>
-<summary><b>✰ Instalación Manual</b></summary>
+<summary><b>Instalación Manual</b></summary>
 
 > *Comandos para instalar de forma manual*
 ```bash
@@ -52,7 +52,7 @@ npm start
 </details>
 
 <details>
-  <summary><b>🜸 Comandos para mantener más tiempo activo el Bot</b></summary>
+  <summary><b>Comandos para mantener más tiempo activo el Bot</b></summary>
 
 > *Ejecutar estos comandos dentro de la carpeta AI-Furina*
 ```bash
