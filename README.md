@@ -120,7 +120,7 @@ cd && cd YukiBot-MD && nano settings.js
 
 ### **`❀ Colaboradores`**
 <a href="https://github.com/The-King-Destroy/Yuki_Suou-Bot/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=The-King-Destroy/Yuki_Suou-Bot" /> 
+<img src="https://contrib.rocks/image?repo=Lc-Novikov/AI-Furina" /> 
 </a>
 
 ### **`ᥫ᭡ Propietario`**
