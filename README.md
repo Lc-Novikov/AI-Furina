@@ -118,12 +118,6 @@ cd && cd YukiBot-MD && nano settings.js
 
 ---
 
-### **`❀ Colaboradores`**
-<a href="https://github.com/Lc-Novikov/AI-Furina/graphs/contributors">
-<img src="https://contrib.rocks/image?repo=Lc-Novikov/AI-Furina" /> 
-</a>
-
-### **`ᥫ᭡ Propietario`**
+### **`PROPIETARIO`**
 <a
-href="https://github.com/The-King-Destroy"><img src="https://github.com/The-King-Destroy.png" width="130" height="130" alt="
-ⁱᵃᵐ|𝔇ĕ𝐬†𝓻⊙γ𒆜"/></a>
+href="https://github.com/Lc-Novikov"><img src="https://github.com/Lc-Novikov.png" width="130" height="130" alt="Xplorazzy-Tech"/></a>
